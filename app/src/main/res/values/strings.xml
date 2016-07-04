@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search">Search Book</string>
+    <string name="result_label">Results for:</string>
+    <string name="query_dummy">Query</string>
+    <string name="dummy_title">This Is A Book Title</string>
+    <string name="dummy_authors">Author One, Author Two</string>
+    <string name="no_results">No results found for query</string>
+    <string name="error_parsing_result">Error parsing the server result!</string>
+    <string name="error_fetching_data">Error fetching data from server!</string>
+</resources>
